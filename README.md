@@ -1,7 +1,7 @@
 # weibo-super-checkin
 
 试做型微博超话自动签到
-
+开始
 ## 用法
 
 1. Fork 本项目
